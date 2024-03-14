@@ -1,4 +1,4 @@
-Cold Start Problems in Recommender Systems
+****Cold Start Problems in Recommender Systems****
 This project aims to tackle the cold start problem in recommender systems, focusing on movie recommendations. We evaluate standard techniques like collaborative filtering, matrix factorization, and content-based filtering, along with hybrid models, to address challenges with new users or items.
 
 **Dataset**
