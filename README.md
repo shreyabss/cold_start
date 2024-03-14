@@ -22,7 +22,7 @@ Algorithm: Recommends items based on the features and characteristics of movies 
 TF-IDF: Uses term frequency-inverse document frequency to assess the importance of words within a collection of documents.
 BERT: Utilizes Bidirectional Encoder Representations from Transformers for a deeper understanding of language semantics.
 
-4.Hybrid Recommender System-based Approach
+4. Hybrid Recommender System-based Approach
 Algorithm: Combines content-based filtering with matrix factorization or k-NN to improve recommendations.
 Experiment (Simulating Cold Start): Simulates new user scenarios to evaluate the performance of different recommendation techniques
 
